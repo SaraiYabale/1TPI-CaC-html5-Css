@@ -59,8 +59,8 @@ h2{
     text-align: center;
 }
 .card{
-    margin-right: 2%;
-    margin-left: 2%;
+    margin-right: 1%;
+    margin-left: 1%;
 }
 .banner {
 margin-left: 7%;
@@ -86,6 +86,7 @@ textarea {
 button {
     background-color: rgb(195, 241, 124);
     border: none;
+    color:aliceblue;
 }
 footer {
     width: 100%;
@@ -99,4 +100,24 @@ footer a{
     color: aliceblue;
     line-height: 60px;
     padding: 0px 30px 0px 30px;
+}
+.formulario-compra{
+    margin:0%;
+    padding:0.5% 20%;
+    justify-content: center;
+}
+.card-categorias {
+    padding-left: 20%;
+    padding-top: 2%;
+    }
+    .card-categoria{
+        text-align: center;
+    }
+    .span-documentacion {
+        text-decoration: none;
+        color:rgb(76, 75, 75);
+        font-size: small;
+    }
+.venta {
+    text-align: center;
 }
